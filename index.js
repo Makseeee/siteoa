@@ -1,5 +1,3 @@
-const axios = require('axios');
-
 async function searchProduct(productId) {
     // Define your AliExpress Affiliate ID and API key
     const affiliateId = 'your_affiliate_id';
